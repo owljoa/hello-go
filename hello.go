@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
-	fmt.Printf("Hello, world.\n")
+// func main() {
+func hello() {
+	fmt.Printf("안녕, world.\n")
 }
